@@ -9,6 +9,9 @@ Automate start and stop of EC2 instances using AWS Lambda and Boto3 based on tag
 - IAM
 - CloudWatch
 - Boto3 (Python SDK)
+Created new EC2 instances as part of this task status as running.PFA
+![[Pasted image 20260324223522.png]]
+
 
 ## Tags Configuration
 - Action = Auto-Stop → Stops instance
