@@ -22,3 +22,7 @@ START RequestId: ca75673e-e2ee-4598-9c60-814571e35339 Version: $LATEST
 Bucket: test-bucket-encryption-s3 → Encryption Type: AES256
 Bucket: test-bucket-no-encryption-s3 → Encryption Type: AES256
 
+Both encrypted because AWS services itself takes encryption by default while creating the S3-buckets due to this i got this logs in it.
+
+
+
