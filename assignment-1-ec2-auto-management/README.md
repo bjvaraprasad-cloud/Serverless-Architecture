@@ -56,3 +56,6 @@ Debug erroe missing one more policy found this error while test the code added n
 ## Instance Details
 - OS: Amazon Linux
 - Type: t2.micro
+
+- <img width="212" height="244" alt="image" src="https://github.com/user-attachments/assets/ba1612c4-8cc4-411e-9535-e9b182b44e6c" />
+
